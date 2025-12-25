@@ -8,19 +8,19 @@ The goal is to accurately classify network traffic as Benign (0) or Attack (1) u
 The project follows a complete ML pipeline including:
 
 Data Collection
-        ↓
+        
 Data Cleaning & Preprocessing
-        ↓
+        
 Label Encoding (Binary)
-        ↓
+        
 Normalization
-        ↓
+
 Feature Selection (RFE & MI)
-        ↓
+
 Data Balancing (SMOTE)
-        ↓
+
 Train-Test Split (80:20)
-        ↓
+
 Model Training
-        ↓
+
 Model Evaluation
